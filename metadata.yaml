@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36469
     wikipedia: http://en.wikipedia.org/wiki/Frank_Oliver_Call
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33553#In-a-Belgian-Garden-and-Other-Poems
 gutenberg_issued: '2010-08-27'
 gutenberg_type: Text
 identifiers:
